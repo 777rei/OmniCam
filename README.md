@@ -110,6 +110,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <p><b>Created with ❤️ by Rei (777rei / reialwaysfreemium)</b></p>
+  <p><b>Created ❤️ by Rei (777rei / reialwaysfreemium)</b></p>
   <p><i>Secure • Private • Skibidi </i></p>
 </div>
