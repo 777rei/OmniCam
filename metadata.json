@@ -1,0 +1,6 @@
+{
+  "name": "OmniCam",
+  "description": "Created by Rei (777rei / reialwaysfreemium). Privacy-First smart CCTV security camera and real-time remote surveillance monitor with motion detection, zero-latency streaming, instant alerts, and encrypted footage archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

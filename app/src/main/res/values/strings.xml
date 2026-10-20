@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OmniCam</string>
+    <string name="cctv_mode_viewer">Monitor Console</string>
+    <string name="cctv_mode_camera">Camera Node</string>
+    <string name="motion_detected">Motion Detected!</string>
+    <string name="live_stream">LIVE</string>
+    <string name="stealth_mode">Stealth Mode</string>
+    <string name="armed">SYSTEM ARMED</string>
+    <string name="disarmed">SYSTEM DISARMED</string>
+    <string name="created_by">Created by Rei (777rei)</string>
+    <string name="developer_brand">reialwaysfreemium</string>
+    <string name="privacy_first_badge">Privacy-First App • 100% Local &amp; Secure</string>
+</resources>
+
